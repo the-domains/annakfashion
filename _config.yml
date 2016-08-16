@@ -12,5 +12,9 @@ color:
     - '#FAD8D6'
 layout_spectrum: 0.8600190128199756
 name: annak.fashion
+navigation:
+  - name: 'Anna K fashion brand '
+    url: annak.fashion
+    type: external
 title: 'Anna K '
 description: '#fashion'
